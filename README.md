@@ -1,8 +1,3 @@
-# start
-# Моя крута сторінка GitHub
-
-Привіт, я John! Ви переглядаєте мою круту сторінку GitHub.
-#code
 <div class="cube">
   <div class="face front">Front</div>
   <div class="face back">Back</div>
